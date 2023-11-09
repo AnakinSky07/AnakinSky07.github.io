@@ -23,6 +23,6 @@ nothing | none
 noob    |0
 
 # Socials
-[a website] (https://www.knowledgehut.com/blog/web-development/what-is-markdown)
+[a website](https://www.knowledgehut.com/blog/web-development/what-is-markdown)
 
 <h1 align="center">who am i?   </h1>
